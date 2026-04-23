@@ -1,0 +1,29 @@
+
+body {
+    background: rgba(77, 227, 219, 0.944);
+    
+    color: white;
+    text-align: center;
+    
+}
+
+
+h1{
+    color:black;
+    font-size: 50px;
+    border-bottom: 3px solid black;
+
+}
+
+
+h2{
+    color:rgb(148, 13, 13);
+    font-size: 20px;    
+    
+
+}
+
+
+div{
+    font-size: 12px;
+}
